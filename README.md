@@ -1,18 +1,14 @@
 # my-first-repo
 # 01 HTML, CSS, and Git: Code Refactor
-
-Are you ready to begin? Here are this week's Challenge requirements.
-
-## User Story
+## README 
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Challenge #1
+This is just an attempt at me cleaning up some code for my coding bootcamp! 
+inside is all of the revisions I was able to find and clean up.
 ```
 
 ## Acceptance Criteria
-
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -28,3 +24,8 @@ THEN I find a concise, descriptive title
 
 This is just an attempt at me cleaning up some code for my coding bootcamp! 
 inside is all of the revisions I was able to find and clean up.
+```
+## ALSO FIGURED OUT HOW TO MAKE BOXES haha
+```
+kinda coooool
+```
